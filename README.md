@@ -44,17 +44,17 @@ The dashboard is organized into **three intuitive pages**:
 - SQL for data preparation
 - Clean, manager-ready visual design
 
-## Insights
+## 💡Insights
 
-### Scale of Analysis
+### 1.Scale of Analysis
 We analyzed more than **700,000 job postings** collected from **7,900 hiring platforms** such as LinkedIn, BeBee, and others.  
 The dataset covers over **140,000 companies worldwide** and spans more than **10 distinct data fields**, including Data Analytics, Data Engineering, and Data Science.  
 
-### Data Fields
+### 2.Data Fields
 Across the dataset, the **top three most demanded data jobs** are:
-1. **Data Analyst**
-2. **Data Engineer**
-3. **Data Scientist**
+- **Data Analyst**
+- **Data Engineer**
+- **Data Scientist**
 
 However, when comparing **median yearly salaries in the USA**, the ranking shifts:
 - **Data Scientist** → $140,000 (highest median salary)  
@@ -66,4 +66,17 @@ This shows a clear distinction between **demand and compensation**:
 - Scientists, while fewer in postings, command the highest pay due to advanced skill requirements.  
 - Engineers sit in the middle, balancing strong demand with competitive salaries.
 
+### 3. Skills in Demand
+The analysis highlights the **top skills most frequently requested** across different data roles:
+
+- **Data Analyst** → SQL, Excel, Python, Tableau, Power BI  
+- **Data Engineer** → SQL, Python, AWS, Azure, Spark  
+- **Data Scientist** → Python, SQL, R, SAS, Tableau  
+
+This breakdown shows how:
+- Analysts are expected to combine **data manipulation (SQL, Excel)** with **visualization tools (Tableau, Power BI)**.  
+- Engineers focus on **programming and cloud platforms**, reflecting the infrastructure-heavy nature of their role.  
+- Scientists require **advanced statistical tools (R, SAS)** alongside Python and SQL, emphasizing their analytical depth.  
+
+Together, these skill sets illustrate the **different technical priorities** across roles, guiding both job seekers in skill development and recruiters in candidate evaluation.
 
