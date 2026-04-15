@@ -46,8 +46,24 @@ The dashboard is organized into **three intuitive pages**:
 
 ## Insights
 
-### 1. Scale of Analysis
+### Scale of Analysis
 We analyzed more than **700,000 job postings** collected from **7,900 hiring platforms** such as LinkedIn, BeBee, and others.  
 The dataset covers over **140,000 companies worldwide** and spans more than **10 distinct data fields**, including Data Analytics, Data Engineering, and Data Science.  
 
-This breadth ensures that the findings reflect diverse hiring practices across industries, geographies, and job categories, making the insights both comprehensive and recruiter‑ready.
+### Data Fields
+Across the dataset, the **top three most demanded data jobs** are:
+1. **Data Analyst**
+2. **Data Engineer**
+3. **Data Scientist**
+
+However, when comparing **median yearly salaries in the USA**, the ranking shifts:
+- **Data Scientist** → $140,000 (highest median salary)  
+- **Data Engineer** → $130,000  
+- **Data Analyst** → $90,000  
+
+This shows a clear distinction between **demand and compensation**:  
+- Analysts are the most frequently hired, but earn the lowest median salary.  
+- Scientists, while fewer in postings, command the highest pay due to advanced skill requirements.  
+- Engineers sit in the middle, balancing strong demand with competitive salaries.
+
+
